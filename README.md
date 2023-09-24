@@ -1,4 +1,4 @@
-- 👋 Hi, We are @simpl3Script (2friend programming group)
+- 👋 Hi, We are @simpl3Script (nikakesh and MM-Maisuradze's collaboration account)
 - 👀 We are interested in programming
 - 🌱 We are currently learning javascript
 - 📫 How to reach me SimpleScript.programming@gmail.com
