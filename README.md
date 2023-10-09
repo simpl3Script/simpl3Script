@@ -1,6 +1,6 @@
 - 👋 Hi, We are @simpl3Script (nikakesh and MM-Maisuradze's collaboration account)
 - 👀 We are interested in programming
-- 🌱 We are currently learning javascript
+- 🌱 We are currently learning html/css/javascript
 - 📫 How to reach me SimpleScript.programming@gmail.com
 
 <!---
